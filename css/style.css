@@ -1,3 +1,16 @@
 body {
-	background-color: green;
+	background-color: white;
+}
+p{
+	border: 5px solid green;
+	padding: 15px;
+}
+
+#p01 {
+
+	color: powderblue;
+}
+
+.error{
+	color:green;
 }
