@@ -14,4 +14,3 @@ function Person() {
 }
 
 ReactDOM.render(<Person/>, document.querySelector("#p1"));
-mnnn

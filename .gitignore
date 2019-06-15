@@ -1,0 +1,19 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+.gitignore
+.idea/
+NextGenJS/.inheritace.js.swp
+NextGenJS/consoleinput.js
+NextGenJS/consoleinput.ts
+NextGenJS/es7-classes.js
+NextGenJS/es7-classes.ts
+NextGenJS/import-export/untitled
+NextGenJS/inheritace.ts
+test.js
