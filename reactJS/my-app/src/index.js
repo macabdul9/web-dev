@@ -9,12 +9,6 @@ var app = (
         <App title = "Machine learning" article = "19"/>
         <App title = "Data Science" article = "11"/>
         <App title = "DS-Algo" article = "19"/>
-        <App title = "Machine learning" article = "19"/>
-        <App title = "Data Science" article = "11"/>
-        <App title = "DS-Algo" article = "19"/>
-        <App title = "Machine learning" article = "19"/>
-        <App title = "Data Science" article = "11"/>
-        <App title = "DS-Algo" article = "19"/>
     </div>
 
 );
